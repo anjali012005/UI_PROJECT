@@ -1,11 +1,11 @@
 import React from 'react'
 
-const Button = () => {
+const Section = () => {
   return (
     <div>
-      Button
+      Section
     </div>
   )
 }
 
-export default Button
+export default Section
