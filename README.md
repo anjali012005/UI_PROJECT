@@ -49,10 +49,10 @@ Follow these simple steps to run the project locally 👇
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/yourusername/brainwave-ai-frontend.git
+git clone https://github.com/yourusername/brainwave-ai-frontend.git](https://github.com/anjali012005/UI_PROJECT.git
 
 # 2️⃣ Move into the project directory
-cd brainwave-ai-frontend
+cd UI_PROJECT
 
 # 3️⃣ Install dependencies
 npm install
