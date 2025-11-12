@@ -33,15 +33,15 @@ This project showcases smooth animations, dynamic UI components, and a futuristi
 
 ## 📁 Project Structure
 
-├── public/
-│ ├── assets/
-├── src/
-│ ├── components/
-│ ├── constants/
-│ ├── App.jsx
-│ └── main.jsx
-├── index.html
-└── tailwind.config.js
+├── public/ <br>
+│ ├── assets/ <br>
+├── src/ <br>
+│ ├── components/ <br>
+│ ├── constants/ <br>
+│ ├── App.jsx <br>
+│ └── main.jsx <br>
+├── index.html <br>
+└── tailwind.config.js <br>
 
 ## ⚙️ Installation & Setup
 
@@ -59,3 +59,12 @@ npm install
 
 # 4️⃣ Run the development server
 npm run dev
+```
+
+# 🌟 Screenshots
+
+<img width="1877" height="967" alt="b1" src="https://github.com/user-attachments/assets/6cb39847-ac19-42c4-94b5-e0b79a15a033" />
+
+<img width="1900" height="797" alt="b3" src="https://github.com/user-attachments/assets/092d4efe-d5d8-41cb-acd7-1eeb6fff3b64" />
+
+
